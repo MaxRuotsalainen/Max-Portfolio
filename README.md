@@ -50,7 +50,7 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#usage">License</a></li>
+    
  
   </ol>
 </details>
@@ -59,8 +59,11 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+<a href="https://github.com/MaxRuotsalainen">
+    <img src="/assets/logo.png" alt="Logo" width="300" height="100">
+  </a>
 
-[![Product Name Screen Shot][product-screenshot]](preview.png)
+
 
 The website is responsive and has both the looks and the design.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
