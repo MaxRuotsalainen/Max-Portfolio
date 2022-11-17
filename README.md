@@ -60,7 +60,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <a href="https://github.com/MaxRuotsalainen">
-    <img src="preview.png" alt="Logo" width="1280" height="720">
+    <img src="preview.png" alt="Logo" width="1280" height="600">
   </a>
 
 
